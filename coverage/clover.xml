@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1582793260470" clover="3.2.0">
+  <project timestamp="1582793260470" name="All files">
+    <metrics statements="90" coveredstatements="76" conditionals="4" coveredconditionals="2" methods="38" coveredmethods="27" elements="132" coveredelements="105" complexity="0" loc="90" ncloc="90" packages="11" files="15" classes="15"/>
+    <package name="src">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="app.vue" path="C:\Users\nbattul\vue-projects\vue-assessment-test-app\employee-management-tool\src\app.vue">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.employees">
+      <metrics statements="30" coveredstatements="21" conditionals="0" coveredconditionals="0" methods="17" coveredmethods="10"/>
+      <file name="addEmployee.vue" path="C:\Users\nbattul\vue-projects\vue-assessment-test-app\employee-management-tool\src\components\employees\addEmployee.vue">
+        <metrics statements="14" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="5"/>
+        <line num="58" count="2" type="stmt"/>
+        <line num="59" count="2" type="stmt"/>
+        <line num="64" count="11" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="91" count="2" type="stmt"/>
+        <line num="93" count="2" type="stmt"/>
+        <line num="94" count="2" type="stmt"/>
+        <line num="95" count="2" type="stmt"/>
+      </file>
+      <file name="listEmployee.vue" path="C:\Users\nbattul\vue-projects\vue-assessment-test-app\employee-management-tool\src\components\employees\listEmployee.vue">
+        <metrics statements="16" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="5"/>
+        <line num="98" count="2" type="stmt"/>
+        <line num="99" count="2" type="stmt"/>
+        <line num="104" count="5" type="stmt"/>
+        <line num="126" count="5" type="stmt"/>
+        <line num="130" count="5" type="stmt"/>
+        <line num="131" count="5" type="stmt"/>
+        <line num="135" count="0" type="stmt"/>
+        <line num="138" count="5" type="stmt"/>
+        <line num="141" count="0" type="stmt"/>
+        <line num="142" count="0" type="stmt"/>
+        <line num="143" count="0" type="stmt"/>
+        <line num="146" count="1" type="stmt"/>
+        <line num="147" count="1" type="stmt"/>
+        <line num="153" count="0" type="stmt"/>
+        <line num="154" count="0" type="stmt"/>
+        <line num="170" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.filters">
+      <metrics statements="11" coveredstatements="10" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="dateFilter.js" path="C:\Users\nbattul\vue-projects\vue-assessment-test-app\employee-management-tool\src\filters\dateFilter.js">
+        <metrics statements="11" coveredstatements="10" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.router">
+      <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="index.js" path="C:\Users\nbattul\vue-projects\vue-assessment-test-app\employee-management-tool\src\router\index.js">
+        <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.services">
+      <metrics statements="9" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="3"/>
+      <file name="apiClient.js" path="C:\Users\nbattul\vue-projects\vue-assessment-test-app\employee-management-tool\src\services\apiClient.js">
+        <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="employeeService.js" path="C:\Users\nbattul\vue-projects\vue-assessment-test-app\employee-management-tool\src\services\employeeService.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.shared">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="appConstants.js" path="C:\Users\nbattul\vue-projects\vue-assessment-test-app\employee-management-tool\src\shared\appConstants.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="7" type="stmt"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+        <line num="24" count="7" type="stmt"/>
+        <line num="45" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.shared.dictionaries">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="employeeDictionary.js" path="C:\Users\nbattul\vue-projects\vue-assessment-test-app\employee-management-tool\src\shared\dictionaries\employeeDictionary.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\Users\nbattul\vue-projects\vue-assessment-test-app\employee-management-tool\src\store\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store.modules">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="handleErrors.js" path="C:\Users\nbattul\vue-projects\vue-assessment-test-app\employee-management-tool\src\store\modules\handleErrors.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store.modules.employeeModule">
+      <metrics statements="23" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="12"/>
+      <file name="actions.js" path="C:\Users\nbattul\vue-projects\vue-assessment-test-app\employee-management-tool\src\store\modules\employeeModule\actions.js">
+        <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+      </file>
+      <file name="index.js" path="C:\Users\nbattul\vue-projects\vue-assessment-test-app\employee-management-tool\src\store\modules\employeeModule\index.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+      <file name="mutations.js" path="C:\Users\nbattul\vue-projects\vue-assessment-test-app\employee-management-tool\src\store\modules\employeeModule\mutations.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.views">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="employees.vue" path="C:\Users\nbattul\vue-projects\vue-assessment-test-app\employee-management-tool\src\views\employees.vue">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
