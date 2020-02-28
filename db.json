@@ -1,0 +1,145 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Sushma",
+      "teams": [],
+      "email": "a@a.com",
+      "skills": []
+    },
+    {
+      "email": "nbattul@capgemini.com",
+      "name": "Naresh Battul",
+      "skill": "Fullstack",
+      "teams": [
+        "IB Rebuild"
+      ],
+      "id": 2
+    },
+    {
+      "email": "megha@cg.com",
+      "name": "Megha Battul",
+      "skill": "Backend",
+      "teams": [
+        "Bench"
+      ],
+      "id": 3
+    },
+    {
+      "email": "Anusha@capgemini.com",
+      "name": "Anusha Pogathota",
+      "skill": "Fullstack",
+      "teams": [
+        "IB Rebuild"
+      ],
+      "id": 4
+    },
+    {
+      "email": "naresh1.battul@capgemini.com",
+      "name": "Naresh1",
+      "skill": "Backend",
+      "teams": [
+        "IB Rebuild",
+        "Classic IB",
+        "ChatBot"
+      ],
+      "id": 5
+    },
+    {
+      "email": "myEmail@email.com",
+      "name": "Naresh Battul",
+      "skill": "Frontend",
+      "teams": [
+        "IB Rebuild",
+        "Bench"
+      ],
+      "id": 6
+    },
+    {
+      "email": "naresh.battul@capgemini.com",
+      "name": "Naresh1",
+      "skill": "Backend",
+      "teams": [
+        "IB Rebuild",
+        "Classic IB"
+      ],
+      "id": 7
+    },
+    {
+      "email": "nareshqqqqqqqqqqq.battul@capgemini.com",
+      "name": "Naresh1",
+      "skill": "Backend",
+      "teams": [
+        "IB Rebuild",
+        "Classic IB"
+      ],
+      "id": 8
+    },
+    {
+      "email": "qqqqqq.battul@capgemini.com",
+      "name": "Naresh1",
+      "skill": "Backend",
+      "teams": [
+        "IB Rebuild",
+        "Classic IB"
+      ],
+      "id": 9
+    },
+    {
+      "email": "qqqqqqa.battul@capgemini.com",
+      "name": "Naresh1",
+      "skill": "Backend",
+      "teams": [
+        "IB Rebuild"
+      ],
+      "id": 10
+    },
+    {
+      "email": "narsfdsfsdfdsesh1.battul@capgemini.com",
+      "name": "Naresh1",
+      "skill": "Backend",
+      "teams": [
+        "Business Forms"
+      ],
+      "id": 11
+    },
+    {
+      "email": "ttt@dgd.fgj",
+      "name": "Naresh1",
+      "skill": "Backend",
+      "teams": [
+        "IB Rebuild",
+        "Business Forms"
+      ],
+      "id": 12
+    },
+    {
+      "email": "qfsedfqqqqq.battul@capgemini.com",
+      "name": "sd",
+      "skill": "Fullstack",
+      "teams": [
+        "Business Forms"
+      ],
+      "id": 13
+    },
+    {
+      "email": "fhf@dxg.co",
+      "name": "dgdf",
+      "skill": "Backend",
+      "teams": [
+        "IB Rebuild"
+      ],
+      "id": 14
+    },
+    {
+      "email": "naresh1.battul@capgemini.com",
+      "name": "sd",
+      "skill": "Fullstack",
+      "teams": [
+        "IB Rebuild",
+        "Business Forms"
+      ],
+      "id": 15
+    }
+  ]
+}
